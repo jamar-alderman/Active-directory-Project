@@ -1,0 +1,57 @@
+[
+  {
+    "GivenName": "Maya",
+    "Surname": "Chen",
+    "SamAccountName": "m.chen",
+    "Department": "IT",
+    "OU": "OU=IT,DC=corp,DC=lab",
+    "Enabled": true,
+    "ChangePasswordAtLogon": true,
+    "PasswordNeverExpires": false,
+    "AccountExpirationDate": null
+  },
+  {
+    "GivenName": "Tepig",
+    "Surname": "Emboar",
+    "SamAccountName": "T.Emboar",
+    "Department": "HR",
+    "OU": "OU=HR,DC=corp,DC=lab",
+    "Enabled": true,
+    "ChangePasswordAtLogon": true,
+    "PasswordNeverExpires": false,
+    "AccountExpirationDate": null
+  },
+  {
+    "GivenName": "Quavo",
+    "Surname": "McQueen",
+    "SamAccountName": "Quavo.McQueen",
+    "Department": "Helpdesk",
+    "OU": "OU=Helpdesk,DC=corp,DC=lab",
+    "Enabled": true,
+    "ChangePasswordAtLogon": true,
+    "PasswordNeverExpires": false,
+    "AccountExpirationDate": null
+  },
+  {
+    "GivenName": "Antonio",
+    "Surname": "Barksdale",
+    "SamAccountName": "Antonio.Barksdale",
+    "Department": "Finance",
+    "OU": "OU=Finance,DC=corp,DC=lab",
+    "Enabled": true,
+    "ChangePasswordAtLogon": true,
+    "PasswordNeverExpires": false,
+    "AccountExpirationDate": null
+  },
+  {
+    "GivenName": "Brandon",
+    "Surname": "Newton",
+    "SamAccountName": "Brandon.Newton",
+    "Department": "Helpdesk",
+    "OU": "OU=Helpdesk,DC=corp,DC=lab",
+    "Enabled": true,
+    "ChangePasswordAtLogon": true,
+    "PasswordNeverExpires": false,
+    "AccountExpirationDate": null
+  }
+]
